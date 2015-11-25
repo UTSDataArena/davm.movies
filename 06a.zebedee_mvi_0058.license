@@ -1,0 +1,24 @@
+CSIRO Wombeyan Caves 3D Data Collection 2014
+
+Acknowledgments
+---------------
+
+The data included in this data collection is copyright 2014 CSIRO and available for research and academic purposes. Please contact Robert Zlot / CSIRO to request usage for other purposes.
+
+Please credit CSIRO when using any of this data in publications or external communications (and where possible/appropriate please inform or coordinate such communications with CSIRO). The minimum requirement for acknowledgment is to state the date, location, equipment used, and technology developers (CSIRO), as in: "Data was acquired at Wombeyan Caves in January 2014 using the Zebedee 3D Mapping System and the bentwing Aerial Scanning System developed by CSIRO Australia."
+
+More information about the Zebedee 3D mapping system is available from: http://wiki.csiro.au/display/ASL/Zebedee
+
+Technical publications (pdf files) related to the Zebedee system:
+[1] M. Bosse, R. Zlot, and P. Flick, "Zebedee: Design of a Spring-Mounted 3-D Range Sensor with Application to Mobile Mapping", IEEE Transactions on Robotics, 28(5), pp 1104--1119, October 2012.
+[2] M. Bosse and R. Zlot, "Place Recognition Using Keypoint Voting in Large 3D Lidar Datasets", IEEE International Conference on Robotics and Automation, May 2013.
+[3] R. Zlot, M. Bosse, K. Greenop, Z. Jarzab, E. Juckes, and J. Roberts, Efficiently Capturing Large, Complex Cultural Heritage Sites with a Handheld Mobile 3D Laser Mapping System, Journal of Cultural Heritage, 2013, DOI: 10.1016/j.culher.2013.11.009.
+[4] R. Zlot and M. Bosse, "Efficient Large-scale Three-dimensional Mobile Mapping for Underground Mines", Journal of Field Robotics, 2014, DOI: 10.1002/rob.21504.
+[5] R. Zlot and M. Bosse, "Three-dimensional Mobile Mapping of Caves", Journal of Cave and Karst Studies, 2014, to appear.
+
+
+Please cite the Zebedee technical papers where appropriate and check first in case any of the citation details have been updated (e.g., the last two references above did not yet have page numbers at the time this document was written).
+
+CSIRO would like to acknowledge the assistance of Mike Lake, Jill Rowling, Bruce Welsh, and Rowena Larkins of the Sydney University Speleological Society, as well as the management of Wombeyan Caves.
+
+Please contact Robert.Zlot@csiro.au for further information.
